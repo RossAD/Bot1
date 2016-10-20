@@ -1,0 +1,32 @@
+{
+  "name": "bot1",
+  "version": "1.0.0",
+  "description": "chat bot 1 Nasa Api",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossAD/Bot1.git"
+  },
+  "keywords": [
+    "chatBot",
+    "NASA",
+    "claudia"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossAD/Bot1/issues"
+  },
+  "homepage": "https://github.com/RossAD/Bot1#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-react": "^6.4.1"
+  }
+}
